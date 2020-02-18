@@ -1,0 +1,8 @@
+{
+  "importContext":
+   {
+      "fileType": "SQL",
+      "uri": "gs://sqldump-storage2/sqldumpfile.gz",
+      "database": "guestbook"
+   }
+}
