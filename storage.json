@@ -1,0 +1,5 @@
+{
+  "name": "sqldump-storage2",
+  "location": "us-central1",
+  "storageClass": "STANDARD"
+}
