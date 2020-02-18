@@ -1,0 +1,11 @@
+{
+  "name": "cloudsql-demo4",
+  "region": "us-central1",
+  "settings": {
+    "tier": "db-f1-micro",
+    "backupConfiguration": {
+      "binaryLogEnabled": true,
+      "enabled": true
+    }
+  }
+}
