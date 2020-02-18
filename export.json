@@ -1,0 +1,8 @@
+{
+"exportContext":
+   {
+      "fileType": "SQL",
+      "uri": "gs://sqldump-storage2/sqldumpfile.gz",
+      "databases": "guestbook"
+    }
+}
